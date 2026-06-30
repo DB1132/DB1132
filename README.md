@@ -6,8 +6,6 @@
 
 🚀 I'm continuously learning new technologies, solving coding challenges, and developing projects that solve real-world problems.
 
-- 🔭 I’m currently working on **CreatorHub AI**
-- 🌱 I’m currently learning **Spring Security, Microservices, Docker & System Design**
 - 👯 I’m looking to collaborate on **Java, Spring Boot & MERN Stack Projects**
 - 💬 Ask me about **Java, Spring Boot, React, Node.js & REST APIs**
 - 📫 Reach me at **baldhadeep5@gmail.com**
