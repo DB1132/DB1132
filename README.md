@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi there! I'm **Deep Baldha**, a passionate **Java & Full Stack Developer** from India 🇮🇳.
+👋 Hi there! I'm **Dip Baldha**, a passionate **Java & Full Stack Developer** from India 🇮🇳.
 
 💻 I enjoy building scalable web applications and backend systems using **Java, Spring Boot, React, Node.js, Express.js, MongoDB, MySQL, and PostgreSQL**.
 
